@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="TU_BANNER_AGROSYS" width="100%" />
+# 👋 Hola, soy Gadiel Obed Gutiérrez
 
-# Gadiel Obed Gutiérrez
+### Ingeniero de Software • Fundador de AGROSYS Software Solutions
 
-### Software Engineer • Founder of AGROSYS Software Solutions
+Desarrollo software empresarial, aplicaciones web y soluciones digitales modernas enfocadas en optimizar procesos, automatizar operaciones y generar valor para empresas.
 
-Building scalable software, modern web applications and enterprise solutions from Sonora, México 🇲🇽
+📍 Etchojoa, Sonora, México
 
-<p>
+<br>
 
 <a href="https://instagram.com/agrosysolutions">
 <img src="https://img.shields.io/badge/@agrosysolutions-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -18,89 +18,69 @@ Building scalable software, modern web applications and enterprise solutions fro
 <img src="https://img.shields.io/badge/agrosyscrm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# Sobre mí
+
+Soy fundador de **AGROSYS Software Solutions**, una empresa dedicada al desarrollo de software, plataformas empresariales y soluciones digitales a la medida.
+
+Mi enfoque está en diseñar aplicaciones modernas, seguras y escalables que ayuden a empresas y organizaciones a mejorar sus procesos mediante tecnología. Me apasiona crear software con arquitectura limpia, alto rendimiento y experiencias intuitivas para el usuario.
+
+---
+
+# Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,php,mysql,supabase,firebase,git,github,vercel,vscode&perline=7"/>
 
 </div>
 
 ---
 
-## 💼 About Me
+# ⭐ Proyecto Destacado
 
-I build software focused on solving real business challenges through scalable architecture, clean code and intuitive user experiences.
+## AGROSYS CRM
 
-As the founder of **AGROSYS Software Solutions**, I design and develop enterprise platforms, custom software, business websites, internal systems and automation solutions that help organizations optimize operations and accelerate digital transformation.
+Plataforma empresarial desarrollada para optimizar la gestión de empresas agrícolas mediante módulos especializados para:
 
-My goal is not only to build applications, but to create software that grows alongside each business.
+- Inventarios
+- Recursos Humanos
+- Nómina
+- Control de Diésel
+- Facturación
+- Auditoría
+- Reportes
+- Dashboard Ejecutivo
+- Seguridad por Roles
 
----
+🏆 **Primer Lugar — ConectaTech 2026**
 
-## 🚀 Tech Stack
+**Tecnologías utilizadas**
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,php,mysql,supabase,firebase,git,github,vercel,vscode,figma&perline=8"/>
-
-</p>
-
----
-
-# ⭐ Featured Project
-
-<div align="center">
-
-## 🚜 AGROSYS CRM
-
-Enterprise Resource Management Platform
-
-</div>
-
-AGROSYS CRM is a modular business platform designed to digitize and optimize agricultural operations through inventory management, workforce administration, diesel control, invoicing, dashboards, reporting, auditing and role-based security.
-
-🏆 **Winner of First Place — ConectaTech 2026**
-
-**Core Technologies**
-
-> Next.js • React • TypeScript • Tailwind CSS • PHP • MySQL • Supabase
+Next.js • React • TypeScript • Tailwind CSS • PHP • MySQL • Supabase
 
 ---
 
-## 📈 GitHub Analytics
+# Servicios
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 📌 Areas of Expertise
-
-- Enterprise Software Development
-- Full Stack Web Development
-- CRM & ERP Solutions
-- Business Process Automation
-- REST API Development
-- Responsive Web Applications
-- Database Design
-- Software Architecture
-- Performance Optimization
-- Web Security
-- SEO Technical Implementation
-- Cloud Deployment
+- Desarrollo de Software Empresarial
+- Aplicaciones Web
+- Sitios Web Corporativos
+- Landing Pages
+- CRM y ERP
+- Automatización de Procesos
+- Integración de APIs
+- Bases de Datos
+- Optimización SEO
+- Mantenimiento y Soporte
 
 ---
 
 <div align="center">
 
-### AGROSYS Software Solutions
-
-**Enterprise Software • Web Development • CRM • Business Automation**
-
-Developed with passion from **Etchojoa, Sonora, México 🇲🇽**
+### "Transformando ideas en soluciones tecnológicas que impulsan negocios."
 
 </div>
